@@ -1,18 +1,19 @@
-## Hi there 👋<h1 align="center" style="border-bottom: none">
+<h1 align="center" style="border-bottom: none">
     <img alt="Docker" src="./imagens/devops-inicio.png" width="200" height="200"><br>
 </h1>
 
 <h1 align="center" style="border-bottom: none">
-    Devops Engineering Integration Architecture.<br>
+    👋 Seja bem-vindo!<br>
 </h1>
 
 ---
-👋 Seja bem-vindo!   <p>
-Você está prestes a iniciar uma jornada que pode transformar sua carreira. O mercado de trabalho atual exige profissionais ```capacitados```, que dominem as ferramentas mais modernas de automação, integração e infraestrutura em nuvem. E mais do que isso: profissionais valorizados e ```altamente remunerados```, capazes de entregar soluções ```ágeis, seguras e escaláveis```.
+O mercado de trabalho atual exige profissionais ```capacitados```, que dominem as ferramentas mais modernas de automação, integração e infraestrutura em nuvem. E mais do que isso: profissionais valorizados e ```altamente remunerados```, capazes de entregar soluções ```ágeis, seguras e escaláveis```.
+
+**Implementar pipelines**, **automatizar infraestrutura**, **monitorar sistemas** e **entregar aplicações em escala**, utilizando as ferramentas que moldam o ```DevOps moderno```:
 
 Neste curso, você será preparado para atuar como um verdadeiro **Engenheiro DevOps** — um perfil cada vez mais procurado pelas empresas, com salários acima da média do setor de tecnologia.
 
-Durante sua formação, você aprenderá a **implementar pipelines**, **automatizar infraestrutura**, **monitorar sistemas** e **entregar aplicações em escala**, utilizando as ferramentas que moldam o ```DevOps moderno```:
+Durante sua formação, você aprenderá a 
 
 
   <table border="0">
