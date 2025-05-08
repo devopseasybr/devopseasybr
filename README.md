@@ -23,8 +23,8 @@ Nesse espaço, eu pretendo compartilhar alguns projetos relacionados como:
       <td> Operar o Sistema Operacional Linux, utilizado <br>pela maioria dos servidores e containers.</td>
     <td><img src="./img/linux-logo.png" width="100" height="100"></td>
     </tr>
-    <tr>
-      <td style="text-align: right;"><img src="./img/terraform.png" width="100" height="100"></td>
+    <tr><p style="text-align: left;">
+      <td style="text-align: right;"><img src="./img/terraform.png" width="100" height="100"></td></p>
       <td>Automatizar a criação e gestão de infraestrutura como código..</td>
     </tr>
     <tr>
