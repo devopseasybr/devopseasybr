@@ -3,7 +3,7 @@
 </h1>
 
 ---
-Meu nome é Robson Ferreira e eu Sou um Engenheiro Devops.<p>
+Meu nome é Robson Ferreira e sou um ```Engenheiro Devops```</strong>.<p>
 
 O mercado de trabalho atual exige profissionais ```capacitados```, que dominem as ferramentas mais modernas de automação, integração e infraestrutura em nuvem. E mais do que isso: profissionais valorizados e ```altamente remunerados```, capazes de entregar soluções ```ágeis, seguras e escaláveis```.
 
@@ -13,7 +13,9 @@ Nesse espaço, eu pretendo compartilhar alguns projetos relacionados como:
 
   <table border="0">
     <tr>
-      <td  style="text-align: right;"><img src="./img/aws.png" width="70" height="70"><img src="./img/gcp.png" width="70" height="70"><img src="./img/azure.png" width="70" height="70"></td>
+      <td  style="text-align: right;"><img src="./img/aws.png" width="70" height="70">
+      <img src="./img/gcp.png" width="70" height="70">
+      <img src="./img/azure.png" width="70" height="70"></td>
       <td>Trabalhar com os principais provedores de nuvem.</td>
     </tr>
     <tr>
