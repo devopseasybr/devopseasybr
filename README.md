@@ -13,7 +13,8 @@ Nesse espaço, eu pretendo compartilhar alguns projetos relacionados como:
 
   <table border="0">
     <tr>
-      <td  style="text-align: right;"><img src="./img/aws.png" width="70" height="70">
+      <td style="text-align: right;">
+      <img src="./img/aws.png" width="70" height="70">
       <img src="./img/gcp.png" width="70" height="70">
       <img src="./img/azure.png" width="70" height="70"></td>
       <td>Trabalhar com os principais provedores de nuvem.</td>
