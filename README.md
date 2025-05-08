@@ -80,5 +80,5 @@ Nesse espaço, eu pretendo compartilhar alguns projetos relacionados como:
 
 <br><br>
 <h4 align="center" style="border-bottom: none">
-    <a href="./devops/cultura.md">,🚀 PRESS START 🚀</a>
+    <a href="https://github.com/devopseasybr/devops_engineer/blob/main/README.md">,🚀 PRESS START 🚀</a>
 </h4>
