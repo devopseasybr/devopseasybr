@@ -3,7 +3,7 @@
 </h1>
 
 ---
-Meu nome é Robson Ferreira e sou um ```Engenheiro Devops```</strong>.<p>
+Meu nome é Robson Ferreira e sou ```Engenheiro Devops```</strong>.<p>
 
 O mercado de trabalho atual exige profissionais ```capacitados```, que dominem as ferramentas mais modernas de automação, integração e infraestrutura em nuvem. E mais do que isso: profissionais valorizados e ```altamente remunerados```, capazes de entregar soluções ```ágeis, seguras e escaláveis```.
 
